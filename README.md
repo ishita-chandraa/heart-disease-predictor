@@ -6,12 +6,6 @@ Built with **Python, Scikit-learn, Streamlit, and Joblib**.
 
 ---
 
-## 🚀 Live Demo
-
-(Add your Streamlit deployment link here after deployment.)
-
----
-
 ## 📌 Features
 
 - Predicts the probability of heart disease
